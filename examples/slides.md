@@ -24,9 +24,7 @@ We aim to provide a suite of ready-to-use templates that any person or
 organization may find helpful when in need for branding.
 
 ## More Information
-<center>
 See [Project Introduction](https://pub-714f8d634e8f451d9f2fe91a4debfa23.r2.dev/keep/vilibcforaosc/Intro.md.pdf--f0942ecb6d77109b7b86d204d896cbd7.pdf).
-</center>
 
 ## Source Code
 
